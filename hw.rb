@@ -1,2 +1,2 @@
 puts 'what is your favorite number?'
-favNumber
+puts 'heyyy'
